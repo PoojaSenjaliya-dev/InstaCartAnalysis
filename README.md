@@ -26,7 +26,6 @@ epartments.csv)
 ## Final Deliverable
 For a comprehensive view of my findings and recommendations, please refer to the [Instacart Basket Analysis copy.zip](https://github.com/user-attachments/files/16281825/Instacart.Basket.Analysis.copy.zip) and
 [A4_final_report.xlsx](https://github.com/user-attachments/files/16281828/A4_final_report.xlsx)containing all data sets, graphs, and reports.
- 
 
 This analysis is not only about uncovering current trends but also about predicting future customer behaviors, thereby enabling Instacart to stay ahead in a competitive market.
 
